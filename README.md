@@ -13,7 +13,7 @@ Este caso de prueba tiene como objetivo verificar el correcto funcionamiento del
 Para la  ejecucion del proyecto tener presente la modificacion de la ruta appium.app="C:/Users/Harin/IdeaProjects/Consubanco/src/test/resources/app.apk"
 que esta ubicada en src\test\resources\serenity.conf
 
-y que 
+
 ## Pasos a Seguir
 1. **Iniciar Sesión:**
     * Abrir la aplicación Consubanco.
@@ -49,3 +49,5 @@ y que
 
 ## Observaciones
 * (Añadir cualquier observación relevante, como dificultades encontradas, sugerencias de mejora, etc.)
+
+* BENDIONES...
