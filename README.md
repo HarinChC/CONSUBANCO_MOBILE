@@ -10,6 +10,10 @@ Este caso de prueba tiene como objetivo verificar el correcto funcionamiento del
     * Contraseña: Promotor1
 * Conexión a internet estable.
 
+Para la  ejecucion del proyecto tener presente la modificacion de la ruta appium.app="C:/Users/Harin/IdeaProjects/Consubanco/src/test/resources/app.apk"
+que esta ubicada en src\test\resources\serenity.conf
+
+y que 
 ## Pasos a Seguir
 1. **Iniciar Sesión:**
     * Abrir la aplicación Consubanco.
